@@ -9,7 +9,7 @@ Configuración de MySQL con phpMyAdmin usando docker compose.
 
 ## Configuración
 
-Crea una copia de env-example y renómbrala a archivo `.env`:
+Crea una copia de env-example y renómbrala a `.env`:
 
 ## Uso
 
